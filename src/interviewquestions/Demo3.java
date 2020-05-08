@@ -8,7 +8,15 @@ public class Demo3 {
 		
 		
 		
+		test();
 		
+		
+	}
+	
+	
+	public static  void test(){
+		
+		System.out.println("demo3");
 		
 		
 	}
